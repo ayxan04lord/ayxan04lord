@@ -1,10 +1,19 @@
-### Hi there 👋
+# Hi 👋!
 
-<!--
-**ayxan04lord/ayxan04lord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi, I'm Aykhan. I'm 19 years old.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| CSS3      |
+|     2| HTML5     |
+|     3| JavaScript|
+|     4| PHP       |
+|     5| SQL       |
+
+### About my interests
 
 - 🔭 I’m currently studying in ASOIU
 - 🌱 I’m currently learning Web-Development
--->
+- 💻 I'm interested in computers
