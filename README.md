@@ -6,11 +6,12 @@ Hi, I'm Aykhan. I'm 19 years old.
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| CSS3      |
-|     2| HTML5     |
+|     1| HTML5     |
+|     2| CSS3      |
 |     3| JavaScript|
 |     4| PHP       |
 |     5| SQL       |
+|     6| React     |
 
 ### About my interests
 
