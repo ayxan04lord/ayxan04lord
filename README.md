@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I'm Aykhan. I'm 19 years old.
+Hi, I'm Aykhan Mustafayev. I'm 20 years old.
 
 | Rank | Languages |
 |-----:|-----------|
@@ -12,6 +12,7 @@ Hi, I'm Aykhan. I'm 19 years old.
 |     4| PHP       |
 |     5| SQL       |
 |     6| React     |
+|     7| Redux     |
 
 ### About my interests
 
