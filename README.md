@@ -9,20 +9,20 @@
 # 🧠 GITHUB STATS OVERLOAD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantferox&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quantferox&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quantferox&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quantferox&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=merko" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantferox&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantferox&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayxan04lord&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayxan04lord&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantferox&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantferox&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayxan04lord&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayxan04lord&layout=donut&theme=tokyonight" />
 </p>
 
 ---
@@ -30,15 +30,15 @@
 # 📊 ACTIVITY VISUALS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantferox&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayxan04lord&theme=react-dark" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quantferox/quantferox/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ayxan04lord/ayxan04lord/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/quantferox" />
+  <img src="https://ghchart.rshah.org/ayxan04lord" />
 </p>
 
 ---
@@ -46,9 +46,9 @@
 # 👀 VISITOR COUNTERS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quantferox&style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=quantferox&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=quantferox&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ayxan04lord&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ayxan04lord&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ayxan04lord&style=for-the-badge" />
 </p>
 
 ---
@@ -69,8 +69,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DEV.TO-quantferox-black?style=for-the-badge&logo=dev.to" />
-  <img src="https://img.shields.io/badge/MEDIUM-quantferox-black?style=for-the-badge&logo=medium" />
+  <img src="https://img.shields.io/badge/DEV.TO-ayxan04lord-black?style=for-the-badge&logo=dev.to" />
+  <img src="https://img.shields.io/badge/MEDIUM-ayxan04lord-black?style=for-the-badge&logo=medium" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 # ⌛ WAKATIME
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quantferox" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayxan04lord" />
 </p>
 
 ---
@@ -86,9 +86,9 @@
 # 🧩 METRICS (LECOQ)
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/quantferox?template=classic" />
-  <img src="https://metrics.lecoq.io/quantferox?template=terminal" />
-  <img src="https://metrics.lecoq.io/quantferox?template=repository" />
+  <img src="https://metrics.lecoq.io/ayxan04lord?template=classic" />
+  <img src="https://metrics.lecoq.io/ayxan04lord?template=terminal" />
+  <img src="https://metrics.lecoq.io/ayxan04lord?template=repository" />
 </p>
 
 ---
@@ -96,9 +96,9 @@
 # 🏆 TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quantferox&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=quantferox&theme=onedark" />
-  <img src="https://github-profile-trophy.vercel.app/?username=quantferox&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayxan04lord&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayxan04lord&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayxan04lord&theme=gruvbox" />
 </p>
 
 ---
@@ -158,19 +158,19 @@
 
 # 🔗 SOCIAL
 
-![GitHub](https://img.shields.io/badge/GitHub-quantferox-black?style=for-the-badge\&logo=github)
-![Twitter](https://img.shields.io/badge/Twitter-quantferox-blue?style=for-the-badge\&logo=twitter)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-quantferox-blue?style=for-the-badge\&logo=linkedin)
+![GitHub](https://img.shields.io/badge/GitHub-ayxan04lord-black?style=for-the-badge\&logo=github)
+![Twitter](https://img.shields.io/badge/Twitter-ayxan04lord-blue?style=for-the-badge\&logo=twitter)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-ayxan04lord-blue?style=for-the-badge\&logo=linkedin)
 
 ---
 
 # 📦 REPO BADGES
 
-![Stars](https://img.shields.io/github/stars/quantferox/repo?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/quantferox/repo?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/quantferox/repo?style=for-the-badge)
-![License](https://img.shields.io/github/license/quantferox/repo?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/quantferox/repo?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ayxan04lord/repo?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/ayxan04lord/repo?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/ayxan04lord/repo?style=for-the-badge)
+![License](https://img.shields.io/github/license/ayxan04lord/repo?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/ayxan04lord/repo?style=for-the-badge)
 
 ---
 
@@ -194,7 +194,7 @@
 # 🗺️ VISITOR MAP
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/quantferox/count.svg" />
+  <img src="https://profile-counter.glitch.me/ayxan04lord/count.svg" />
 </p>
 
 ---
@@ -202,7 +202,7 @@
 # 🧾 ASCII TERMINAL
 
 ```
-> booting quantferox...
+> booting ayxan04lord...
 > loading modules ██████████████ 100%
 > initializing chaos engine...
 > ready.
@@ -213,8 +213,8 @@
 # 🧨 EXPERIMENTAL / RANDOM
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=quantferox&data=followers,repositories,stars,commits" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=quantferox" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ayxan04lord&data=followers,repositories,stars,commits" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayxan04lord" />
 </p>
 
 ---
