@@ -1,7 +1,7 @@
-# ⚡ QUANTFEROX — ULTIMATE README PLAYGROUND-YADERNIY ⚡
+# ⚡ AYXAN04LORD - FULLSTACK WEB DEVELOPER ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=QUANTFEROX+PROFILE+OVERLOAD;FULL+STACK+ENGINEER;SYSTEM+ARCHITECT;CODE+%7C+BUILD+%7C+BREAK+%7C+REPEAT" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AYXAN04LORD+PROFILE+OVERLOAD;FULL+STACK+DEVELOPER;SYSTEM+ARCHITECT;CODE+%7C+BUILD+%7C+BREAK+%7C+REPEAT" />
 </p>
 
 ---
