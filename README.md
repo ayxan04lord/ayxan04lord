@@ -1,7 +1,7 @@
-# ⚡ AYXAN04LORD - FULLSTACK WEB DEVELOPER ⚡
+# ⚡ AYXAN — FULLSTACK WEB DEVELOPER ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AYXAN04LORD+PROFILE+OVERLOAD;FULL+STACK+DEVELOPER;SYSTEM+ARCHITECT;CODE+%7C+BUILD+%7C+BREAK+%7C+REPEAT" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AYXAN+PROFILE+OVERLOAD;FULL+STACK+DEVELOPER;REACT+%7C+DJANGO+%7C+PYTHON;CODE+%7C+BUILD+%7C+BREAK+%7C+REPEAT" />
 </p>
 
 ---
@@ -11,8 +11,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=merko" />
 </p>
 
 <p align="center">
@@ -37,58 +35,13 @@
   <img src="https://raw.githubusercontent.com/ayxan04lord/ayxan04lord/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/ayxan04lord" />
-</p>
-
 ---
 
-# 👀 VISITOR COUNTERS
+# 👀 VISITOR COUNTER
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayxan04lord&style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=ayxan04lord&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=ayxan04lord&style=for-the-badge" />
-</p>
-
----
-
-# 🎧 SPOTIFY / MEDIA
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_ID&cover_image=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_ID" />
-</p>
-
----
-
-# 📺 YOUTUBE / BLOG / RSS
-
-<p align="center">
-  <img src="https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DEV.TO-ayxan04lord-black?style=for-the-badge&logo=dev.to" />
-  <img src="https://img.shields.io/badge/MEDIUM-ayxan04lord-black?style=for-the-badge&logo=medium" />
-</p>
-
----
-
-# ⌛ WAKATIME
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayxan04lord" />
-</p>
-
----
-
-# 🧩 METRICS (LECOQ)
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/ayxan04lord?template=classic" />
-  <img src="https://metrics.lecoq.io/ayxan04lord?template=terminal" />
-  <img src="https://metrics.lecoq.io/ayxan04lord?template=repository" />
+  <img src="https://komarev.com/ghpvc/?username=ayxan04lord&style=for-the-badge&color=00f7ff" />
+  <img src="https://profile-counter.glitch.me/ayxan04lord/count.svg" />
 </p>
 
 ---
@@ -98,79 +51,55 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayxan04lord&theme=radical" />
   <img src="https://github-profile-trophy.vercel.app/?username=ayxan04lord&theme=onedark" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ayxan04lord&theme=gruvbox" />
 </p>
 
 ---
 
-# 💬 QUOTES / JOKES
+# 🧱 LANGUAGES
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-  <img src="https://readme-jokes.vercel.app/api" />
-</p>
-
----
-
-# 🧱 BADGE WALL — LANGUAGES
-
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![TS](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge\&logo=go)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge\&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge\&logo=swift)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TS](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 ---
 
 # 🧱 FRAMEWORKS
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge\&logo=vue.js)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular)
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge\&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge\&logo=fastapi)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
 
 ---
 
 # 🧱 DATABASES
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![Mongo](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge\&logo=redis)
+![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
 
 ---
 
 # ⚙️ DEVOPS
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![K8s](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge\&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge\&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
 
 # 🔗 SOCIAL
 
-![GitHub](https://img.shields.io/badge/GitHub-ayxan04lord-black?style=for-the-badge\&logo=github)
-![Twitter](https://img.shields.io/badge/Twitter-ayxan04lord-blue?style=for-the-badge\&logo=twitter)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-ayxan04lord-blue?style=for-the-badge\&logo=linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-ayxan04lord-black?style=for-the-badge&logo=github)](https://github.com/ayxan04lord)
 
 ---
 
-# 📦 REPO BADGES
+# 💬 QUOTE
 
-![Stars](https://img.shields.io/github/stars/ayxan04lord/repo?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/ayxan04lord/repo?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/ayxan04lord/repo?style=for-the-badge)
-![License](https://img.shields.io/github/license/ayxan04lord/repo?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/ayxan04lord/repo?style=for-the-badge)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
@@ -178,23 +107,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400"/>
-</p>
-
----
-
-# 🧬 HOLOPIN
-
-<p align="center">
-  <img src="https://holopin.me/quantferox" />
-</p>
-
----
-
-# 🗺️ VISITOR MAP
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ayxan04lord/count.svg" />
 </p>
 
 ---
@@ -202,7 +114,7 @@
 # 🧾 ASCII TERMINAL
 
 ```
-> booting ayxan04lord...
+> booting ayxan...
 > loading modules ██████████████ 100%
 > initializing chaos engine...
 > ready.
@@ -210,18 +122,7 @@
 
 ---
 
-# 🧨 EXPERIMENTAL / RANDOM
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ayxan04lord&data=followers,repositories,stars,commits" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayxan04lord" />
-</p>
-
----
-
 # ⚠️ FINAL NOTE
 
-THIS README IS INTENTIONALLY OVERLOADED.
+THIS README IS INTENTIONALLY OVERLOADED.  
 EVERYTHING. EVERYWHERE. ALL AT ONCE.
-
----
