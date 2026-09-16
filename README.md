@@ -4,14 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AYXAN+PROFILE+OVERLOAD;FULL+STACK+DEVELOPER;REACT+%7C+DJANGO+%7C+PYTHON;CODE+%7C+BUILD+%7C+BREAK+%7C+REPEAT" alt="Typing SVG" />
 </p>
 
----
 
-# 🧠 GITHUB STATS
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayxan04lord&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayxan04lord&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -31,14 +24,6 @@
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayxan04lord/ayxan04lord/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 # 👀 PROFILE VIEWS
 
 <p align="center">
@@ -47,13 +32,6 @@
 
 ---
 
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayxan04lord&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
 
 # 🧱 LANGUAGES
 
