@@ -14,13 +14,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayxan04lord&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-# 📊 ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayxan04lord&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
@@ -45,8 +38,9 @@
 
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
-</p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 
+</p>
 ---
 
 # 🧱 FRAMEWORKS & LIBRARIES
@@ -55,13 +49,31 @@
 
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 
   <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+
   <img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 
   <img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+
+</p>
+
+---
+
+# 🎨 FRONTEND & STYLING
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
 </p>
 
@@ -75,9 +87,7 @@
 
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-  <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 </p>
 
@@ -102,9 +112,41 @@
 # 🔗 SOCIAL
 
 <p align="center">
+
   <a href="https://github.com/ayxan04lord">
-    <img src="https://img.shields.io/badge/GitHub-ayxan04lord-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ayxan04lord-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  
+
+  <a href="https://www.linkedin.com/in/ayxan-mustafayev-8b6562329/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayxan%20Mustafayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  
+
+  <a href="https://www.facebook.com/ayxanm2004">
+    <img src="https://img.shields.io/badge/Facebook-ayxanm2004-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <br>
+
+  <a href="https://ok.ru/profile/554214133832">
+    <img src="https://img.shields.io/badge/OK-Profile-F4731C?style=for-the-badge&logo=ok&logoColor=white" alt="OK" />
+  </a>
+
+  
+
+  <a href="https://vk.ru/timedragon44">
+    <img src="https://img.shields.io/badge/VK-timedragon44-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+  </a>
+
+  
+
+  <a href="https://www.instagram.com/ayxan_04lord/">
+    <img src="https://img.shields.io/badge/Instagram-ayxan__04lord-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
 </p>
 
 ---
@@ -124,25 +166,3 @@
 </p>
 
 ---
-
-# 🧾 ASCII TERMINAL
-
-```text
-> booting ayxan...
-> loading modules ██████████████ 100%
-> initializing chaos engine...
-> fullstack mode: ON
-> ready.
-```
-
----
-
-# ⚠️ FINAL NOTE
-
-<p align="center">
-
-**THIS README IS INTENTIONALLY OVERLOADED.**
-
-**EVERYTHING. EVERYWHERE. ALL AT ONCE.**
-
-</p>
